@@ -1,0 +1,10 @@
+## Interface: 100206
+## Title: BetterBags - Jewelry
+## Notes: Adds a Jewelry items filter to BetterBags.
+## Author: Judah
+## Version: 1.0.0
+## IconTexture: 4620677
+## Dependencies: BetterBags
+## X-Curse-Project-ID: 1009850
+
+BetterBags_Jewelry.lua
